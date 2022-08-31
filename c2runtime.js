@@ -23657,13 +23657,13 @@ cr.behaviors.Sin = function(runtime)
 	behaviorProto.exps = new Exps();
 }());
 cr.getObjectRefTable = function () { return [
-	cr.plugins_.Arr,
 	cr.plugins_.Audio,
+	cr.plugins_.Arr,
 	cr.plugins_.Function,
 	cr.plugins_.Particles,
-	cr.plugins_.Touch,
-	cr.plugins_.Sprite,
 	cr.plugins_.Text,
+	cr.plugins_.Sprite,
+	cr.plugins_.Touch,
 	cr.behaviors.Rex_MoveTo,
 	cr.behaviors.Flash,
 	cr.behaviors.Sin,
@@ -23676,9 +23676,9 @@ cr.getObjectRefTable = function () { return [
 	cr.behaviors.Rex_MoveTo.prototype.acts.SetTargetPos,
 	cr.behaviors.Flash.prototype.acts.Flash,
 	cr.system_object.prototype.acts.ResetGlobals,
+	cr.plugins_.Sprite.prototype.acts.Destroy,
 	cr.system_object.prototype.cnds.TriggerOnce,
 	cr.plugins_.Audio.prototype.acts.Play,
-	cr.plugins_.Sprite.prototype.acts.Destroy,
 	cr.system_object.prototype.cnds.OnLayoutStart,
 	cr.plugins_.Function.prototype.acts.CallFunction,
 	cr.plugins_.Function.prototype.cnds.OnFunction,
@@ -23704,7 +23704,7 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Arr.prototype.exps.Width,
 	cr.plugins_.Arr.prototype.exps.Back,
 	cr.system_object.prototype.acts.CreateObject,
-	cr.plugins_.Audio.prototype.acts.SetPaused,
-	cr.system_object.prototype.acts.GoToLayoutByName
+	cr.system_object.prototype.acts.GoToLayoutByName,
+	cr.plugins_.Audio.prototype.acts.SetPaused
 ];};
 

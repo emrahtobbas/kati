@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1661799894,
+	"version": 1661974000,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -85,6 +85,11 @@
 		"images/tkr2-sheet0.png",
 		"images/papatya-sheet0.png",
 		"images/papatya-sheet1.png",
+		"images/papatya-sheet2.png",
+		"images/papatya-sheet3.png",
+		"images/papatya-sheet4.png",
+		"images/papatya-sheet5.png",
+		"images/papatya-sheet6.png",
 		"images/palet-sheet0.png",
 		"media/dogru.m4a",
 		"media/dogru.ogg",
