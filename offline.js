@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1662112682,
+	"version": 1662116155,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -51,6 +51,7 @@
 		"images/arka-sheet9.png",
 		"images/arka-sheet10.png",
 		"images/arka-sheet11.png",
+		"images/arka-sheet12.png",
 		"images/oyunh-sheet0.png",
 		"images/oyunh-sheet1.png",
 		"images/ses-sheet0.png",
