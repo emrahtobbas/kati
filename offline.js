@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1663596331,
+	"version": 1663612310,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -88,8 +88,6 @@
 		"images/papatya-sheet4.png",
 		"images/papatya-sheet5.png",
 		"images/papatya-sheet6.png",
-		"images/palet-sheet0.png",
-		"images/palet2-sheet0.png",
 		"images/hazirlayan-sheet0.png",
 		"images/hazirlayan-sheet1.png",
 		"images/loadinglogo-sheet0.png",
